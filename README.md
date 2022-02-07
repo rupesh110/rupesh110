@@ -4,11 +4,12 @@
     A undergaduate software Engineering student, eager to explore the Tech world
 </p>
 
-- I'm currently learning Web Devlopement and exploring the fields of AI.
-- Willing to contribute in Java, JavaScript and python.
-- Reach out to me shrestharupesh110@gmail.com
-- Fun fact I love nature Photography.
-- Porfolio 
+- 🌱 I'm currently learning Web Devlopement and exploring the fields of AI.
+- 👯 Willing to contribute in Java, JavaScript and python.
+- 📫 Reach out to me shrestharupesh110@gmail.com
+- ⚡ Fun fact I love nature Photography.
+- 😄 [Porfolio](https://heuristic-brahmagupta-e37ae0.netlify.app/?fbclid=IwAR1CX9D95yNvJnJ0JeDd2fkZL619k9tM9f802cHWCO13GjdSUIfiZiHapxs)
+
 
 <!--
 **rupesh110/rupesh110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
