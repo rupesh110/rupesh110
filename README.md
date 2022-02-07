@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi there 👋, I am Rupesh
+---------------------------------------------------------------------------------
+<p align="center" >
+    A undergaduate software Engineering student, eager to explore the Tech world
+</p>
+
+- I'm currently learning Web Devlopement and exploring the fields of AI.
+- Willing to contribute in Java, JavaScript and python.
+- Reach out to me shrestharupesh110@gmail.com
+- Fun fact I love nature Photography.
+- Porfolio 
 
 <!--
 **rupesh110/rupesh110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
