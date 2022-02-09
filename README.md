@@ -4,7 +4,7 @@
     A undergaduate software Engineering student, eager to explore the Tech world
 </p>
 
-- 🌱 I'm currently learning Web Devlopement and exploring the fields of AI.
+- 🌱 I'm currently learning Web Development and exploring the fields of AI.
 - 👯 Willing to contribute in Java, JavaScript and python.
 - 📫 Reach out to me shrestharupesh110@gmail.com
 - ⚡ Fun fact I love nature Photography.
