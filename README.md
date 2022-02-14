@@ -8,7 +8,7 @@
 - 👯 Willing to contribute in Java, JavaScript and python.
 - 📫 Reach out to me shrestharupesh110@gmail.com
 - ⚡ Fun fact I love nature Photography and sunsets.
-- 😄 [Porfolio](https://heuristic-brahmagupta-e37ae0.netlify.app/?fbclid=IwAR1CX9D95yNvJnJ0JeDd2fkZL619k9tM9f802cHWCO13GjdSUIfiZiHapxs)
+- 😄 [Portfolio](https://heuristic-brahmagupta-e37ae0.netlify.app/?fbclid=IwAR1CX9D95yNvJnJ0JeDd2fkZL619k9tM9f802cHWCO13GjdSUIfiZiHapxs)
 
 
 <!--
