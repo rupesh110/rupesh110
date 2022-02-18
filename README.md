@@ -1,4 +1,4 @@
-### Hi there 👋, I am Rupesh.
+### Hi there 👋, I am Rupesh...
 ---------------------------------------------------------------------------------
 <p align="center" >
     A undergaduate software Engineering student, eager to explore the Tech world
