@@ -6,7 +6,7 @@
 
 - 🌱 I'm currently learning Web Development and exploring the fields of AI.
 - 👯 Willing to contribute in HTML, CSS, Java, JavaScript and Python.
-- 📫 Reach out to me rupeshshrestha2537gmail.com
+- 📫 Reach out to me rupeshshrestha2537@gmail.com
 - ⚡ Fun fact I love nature Photography and sunsets.
 
 
