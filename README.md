@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Rupesh Shrestha
 
 <p align="center">
-  🚀 Undergraduate Software Engineering Student
+  🚀 Full-Stack Software Developer
 </p>
 
 🌱 **Currently Learning:** Web Development and diving into the fascinating world of AI.
