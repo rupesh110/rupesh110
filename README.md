@@ -14,7 +14,6 @@
 
 🔗 **Website:** [Check out my website](https://admin-frontend-56da.onrender.com/)
 
----
 
 ## What's on My Plate
 
