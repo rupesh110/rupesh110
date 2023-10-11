@@ -27,7 +27,6 @@
 
 📫 **How to Reach Me:** rupeshshrestha2537@gmail.com
 
----
 
 ## Technical Skills
 
@@ -37,7 +36,6 @@
 
 **Tools & Platforms:** Git, GitHub, AWS, Netlify, Firebase, Figma, Render, AWS Infrastructure, NoSQL, MongoDB, DynamoDB
 
----
 
 ## Projects
 
@@ -45,13 +43,11 @@
 
 - **Built Analytics Platform:** Enhanced web-based projects by implementing features that facilitate data-driven decision-making, utilizing technologies like D3.js, React, TypeScript, Auth0, and JavaScript.
 
----
 
 ## Professional Qualification
 
 - **Macquarie University:** Bachelor of Information Technology (Software) - Feb 2020 to July 2023
 
----
 
 ## Interests
 
