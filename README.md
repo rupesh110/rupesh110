@@ -23,8 +23,6 @@
 
 👯 **Looking to Collaborate On:** Always Open to collab for startup ideas converting ideas into solutions.
 
-💬 **Ask Me About:** [What topics or technologies are you knowledgeable in and willing to discuss]
-
 📫 **How to Reach Me:** rupeshshrestha2537@gmail.com
 
 
