@@ -1,9 +1,9 @@
 <!-- Your name and introduction -->
 # Hi there! 👋 I'm Rupesh Shrestha
 
-<!-- Centered profile image with border and shadow -->
+<!-- Centered profile image with CSS styling -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rupesh110/rupesh110/main/Rupesh.JPG" alt="Rupesh Shrestha" width="200" height="200" style="border: 5px solid #00F; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2); margin-bottom: 20px;">
+  <img src="https://raw.githubusercontent.com/rupesh110/rupesh110/main/Rupesh.JPG" alt="Rupesh Shrestha" width="200" height="200" style="border: 5px solid #00F; border-radius: 50%; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2); margin-bottom: 20px;">
 </p>
 
 <!-- Your role -->
