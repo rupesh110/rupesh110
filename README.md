@@ -14,9 +14,6 @@
 
 👯 **Willing to Contribute:** In HTML, CSS, Java, JavaScript, and Python.
 
-<!-- Contact -->
-📫 **Reach Out to Me:** [![Email](https://img.shields.io/badge/Email-rupeshshrestha2537%40gmail.com-red)](mailto:rupeshshrestha2537@gmail.com)
-
 <!-- Fun fact -->
 ⚡ **Fun Fact:** I have a deep love for nature photography and capturing beautiful sunsets. 📷
 
