@@ -36,14 +36,43 @@
 <!-- How to reach you -->
 📫 **How to Reach Me:** [![Email](https://img.shields.io/badge/Email-rupeshshrestha2537%40gmail.com-red)](mailto:rupeshshrestha2537@gmail.com)
 
-<!-- Technical skills -->
+<!-- Technical Skills -->
 ## Technical Skills
 
-**Programming Languages:** JavaScript, Java, Python, HTML, CSS
+As a Full-Stack Software Developer, I bring a versatile skill set to the table. My expertise includes:
 
-**Libraries & Frameworks:** React, React Native, Bootstrap, Tailwind, Express, Serverless, AWS SAM, Node.js, NPM, Lambda
+### Programming Languages
+- JavaScript
+- Java
+- Python
+- HTML
+- CSS
 
-**Tools & Platforms:** Git, GitHub, AWS, Netlify, Firebase, Figma, Render, AWS Infrastructure, NoSQL, MongoDB
+### Libraries & Frameworks
+- React
+- React Native
+- Bootstrap
+- Tailwind CSS
+- Express.js
+- Serverless
+- AWS Serverless Application Model (AWS SAM)
+- Node.js
+- NPM
+- AWS Lambda
+
+### Tools & Platforms
+- Git
+- GitHub
+- AWS (Amazon Web Services)
+- Netlify
+- Firebase
+- Figma
+- Render
+- AWS Infrastructure
+- NoSQL Databases (MongoDB, DynamoDB)
+
+These skills empower me to develop end-to-end solutions and create captivating web applications with a focus on user experience and performance.
+
 
 <!-- Highlighted projects -->
 ## Projects
