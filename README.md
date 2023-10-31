@@ -1,3 +1,8 @@
+<!-- Social Links -->
+## Social Links
+
+🌐 **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/rupeshshresthas)
+
 <!-- Your name and introduction -->
 # Hi there! 👋 I'm Rupesh Shrestha
 
