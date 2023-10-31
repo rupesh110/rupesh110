@@ -53,22 +53,23 @@ As a Full-Stack Software Developer, I bring a versatile skill set to the table. 
 - Bootstrap
 - Tailwind CSS
 - Express.js
-- Serverless
-- AWS Serverless Application Model (AWS SAM)
+- Fastapi
 - Node.js
 - NPM
-- AWS Lambda
+- MongoDB, Postgres
 
 ### Tools & Platforms
 - Git
 - GitHub
 - AWS (Amazon Web Services)
+- Heroku
 - Netlify
 - Firebase
 - Figma
 - Render
 - AWS Infrastructure
-- NoSQL Databases (MongoDB, DynamoDB)
+- Digital Ocean
+
 
 These skills empower me to develop end-to-end solutions and create captivating web applications with a focus on user experience and performance.
 
