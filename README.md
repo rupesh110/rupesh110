@@ -19,6 +19,8 @@
 
 <!-- Fun fact -->
 ⚡ **Fun Fact:** I have a deep love for nature photography and capturing beautiful sunsets. 📷
+<!-- GitHub Summary -->
+<img src="https://profile-summary-for-github.com/user/rupesh110"/>
 
 <!-- Website and GitHub summary -->
 🔗 **Website:** [Check out my website](https://admin-frontend-56da.onrender.com/)
