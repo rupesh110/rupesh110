@@ -92,7 +92,7 @@ These skills empower me to develop end-to-end solutions and create captivating w
 
 - **Description:** Currently, I'm actively working on building a robust backend for a social media application. This project utilizes Python and the FastAPI framework, with a strong focus on data management using SQL. It ensures seamless server-to-front-end communication and promises exciting developments in the world of social media.
 
-- **Technologies Used:** Python, FastAPI, SQL, GitHub, CI/CD, Swagger, Hereku
+- **Technologies Used:** Python, FastAPI, SQL, GitHub, CI/CD, Swagger, Heroku
 
 These projects showcase my proficiency in various technologies and my ability to deliver solutions that cater to real-world needs. Feel free to explore the repositories for more details.
 <!-- Education -->
