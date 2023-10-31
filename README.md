@@ -20,6 +20,9 @@
 <!-- Fun fact -->
 ⚡ **Fun Fact:** I have a deep love for nature photography and capturing beautiful sunsets. 📷
 
+<!-- GitHub Stats -->
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=rupesh110&show_icons=true&theme=radical)
+
 <!-- Website and GitHub summary -->
 🔗 **Website:** [Check out my website](https://admin-frontend-56da.onrender.com/)
 🔗 **GitHub Summary:** [![GitHub Summary](https://img.shields.io/badge/GitHub-Summary-brightgreen)](https://profile-summary-for-github.com/user/rupesh110)
