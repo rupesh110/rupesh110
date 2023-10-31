@@ -3,7 +3,7 @@
 
 <!-- Centered profile image -->
 <p align="center">
-  <img src="https://your-profile-image-url.com" alt="Rupesh Shrestha" width="200" height="200">
+  <img src="/rupesh.JPG" alt="Rupesh Shrestha" width="200" height="200">
 </p>
 
 <!-- Your role -->
