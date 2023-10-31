@@ -3,7 +3,7 @@
 
 <!-- Centered profile image -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rupesh110/rupesh110/main/Rupesh.JPG" alt="Rupesh Shrestha" width="200" height="200">
+  <img src="https://raw.githubusercontent.com/rupesh110/rupesh110/main/Rupesh.JPG" alt="Rupesh Shrestha" width="300" height="200">
 </p>
 
 <!-- Your role -->
