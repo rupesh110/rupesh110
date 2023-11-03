@@ -20,6 +20,8 @@
 <!-- Website and GitHub summary -->
 🔗 **GitHub Summary:** [![GitHub Summary](https://img.shields.io/badge/GitHub-Summary-brightgreen)](https://profile-summary-for-github.com/user/rupesh110)
 
+🔗 **Website:** [Check out my website]([https://rupeshdev.netlify.app])
+
 <!-- What you're working on -->
 ## What's on My Plate
 
@@ -74,7 +76,7 @@ These skills empower me to develop end-to-end solutions and create captivating w
 <!-- Projects -->
 ## Projects
 
-### Admin Dashboard 🔗 **Website:** [Check out my website](https://admin-frontend-56da.onrender.com/)
+### Admin Dashboard 🔗 **Website:** [Link](https://admin-frontend-56da.onrender.com/)
 
 - **Description:** I developed a comprehensive admin dashboard from the ground up, aimed at empowering administrators to monitor real-time data in a user-friendly interface. The project involved building a full-stack application using JavaScript, React, Express.js, and MongoDB. Real-time data rendering was achieved to ensure timely decision-making by administrators.
 
