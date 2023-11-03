@@ -20,7 +20,7 @@
 <!-- Website and GitHub summary -->
 🔗 **GitHub Summary:** [![GitHub Summary](https://img.shields.io/badge/GitHub-Summary-brightgreen)](https://profile-summary-for-github.com/user/rupesh110)
 
-🔗 **Website:** [![Check out my website](https://rupeshdev.netlify.app)](https://rupeshdev.netlify.app)
+🔗 **Website:** [![Check out my website]((https://img.shields.io/badge/Website)](https://rupeshdev.netlify.app)
 
 <!-- What you're working on -->
 ## What's on My Plate
