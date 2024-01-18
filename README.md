@@ -42,8 +42,9 @@ As a Full-Stack Software Developer, I bring a versatile skill set to the table. 
 
 ### Programming Languages
 - JavaScript
-- Java
+- TypeScript
 - Python
+- Java
 - HTML
 - CSS
 
@@ -57,22 +58,24 @@ As a Full-Stack Software Developer, I bring a versatile skill set to the table. 
 - Node.js
 - NPM
 - MongoDB, Postgres
+- Serverless
 
 ### Tools & Platforms
 - Git
 - GitHub
-- AWS (Amazon Web Services)
+- Azure
+- AWS 
 - Heroku
 - Netlify
 - Firebase
 - Figma
 - Render
-- AWS Infrastructure
 - Digital Ocean
-
-
+- Jira
+- CI/CD
+- DevOps
+  
 These skills empower me to develop end-to-end solutions and create captivating web applications with a focus on user experience and performance.
-
 
 <!-- Projects -->
 ## Projects
