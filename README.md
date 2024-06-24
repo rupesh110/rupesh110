@@ -1,41 +1,31 @@
-<!-- Social Links -->
 ## Social Links
 
 🌐 **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/rupeshshresthas)
 
-<!-- Your name and introduction -->
 # Hi there! 👋 I'm Rupesh Shrestha
 
-<!-- Your role -->
 🚀 **Full-Stack Software Developer**
 
-<!-- Learning and contribution -->
 🌱 **Currently Learning:** Web Development and diving into the fascinating world of AI.
 
 👯 **Willing to Contribute:** In HTML, CSS, Java, JavaScript, and Python.
 
-<!-- Fun fact -->
 ⚡ **Fun Fact:** I have a deep love for nature photography and capturing beautiful sunsets. 📷
 
-<!-- Website and GitHub summary -->
 🔗 **GitHub Summary:** [![GitHub Summary](https://img.shields.io/badge/GitHub-Summary-brightgreen)](https://profile-summary-for-github.com/user/rupesh110)
 
 🔗 **Website:** [![Website](https://img.shields.io/badge/Check%20out%20my%20website-brightgreen)](https://rupeshdev.netlify.app)
 
-
-<!-- What you're working on -->
 ## What's on My Plate
 
 🔭 **Currently Working On:** Building a backend for a social media application using Python and the FastAPI framework. Leveraging SQL for data management and ensuring seamless server-to-front-end communication. Exciting times ahead! 🚀
 
 🌱 **Currently Learning:** In-depth about the backend architecture for a robust backend.
 
-👯 **Looking to Collaborate On:** Always Open to collab for startup ideas converting ideas into solutions.
+👯 **Looking to Collaborate On:** Always open to collaborating on startup ideas and converting ideas into solutions.
 
-<!-- How to reach you -->
 📫 **How to Reach Me:** [![Email](https://img.shields.io/badge/Email-rupeshshrestha2537%40gmail.com-red)](mailto:rupeshshrestha2537@gmail.com)
 
-<!-- Technical Skills -->
 ## Technical Skills
 
 As a Full-Stack Software Developer, I bring a versatile skill set to the table. My expertise includes:
@@ -47,6 +37,7 @@ As a Full-Stack Software Developer, I bring a versatile skill set to the table. 
 - Java
 - HTML
 - CSS
+- C#
 
 ### Libraries & Frameworks
 - React
@@ -54,11 +45,19 @@ As a Full-Stack Software Developer, I bring a versatile skill set to the table. 
 - Bootstrap
 - Tailwind CSS
 - Express.js
-- Fastapi
+- FastAPI
 - Node.js
 - NPM
-- MongoDB, Postgres
-- Serverless
+- Next.js
+- Redux
+- D3.js
+- Auth0
+
+### Databases
+- MongoDB
+- PostgreSQL
+- SQL
+- NoSQL
 
 ### Tools & Platforms
 - Git
@@ -72,12 +71,13 @@ As a Full-Stack Software Developer, I bring a versatile skill set to the table. 
 - Render
 - Digital Ocean
 - Jira
+- Docker
+- Serverless
 - CI/CD
 - DevOps
-  
+
 These skills empower me to develop end-to-end solutions and create captivating web applications with a focus on user experience and performance.
 
-<!-- Projects -->
 ## Projects
 
 ### Admin Dashboard 🔗 **Website:** [Link](https://admin-frontend-56da.onrender.com/)
@@ -99,16 +99,13 @@ These skills empower me to develop end-to-end solutions and create captivating w
 - **Technologies Used:** Python, FastAPI, SQL, GitHub, CI/CD, Swagger, Heroku
 
 These projects showcase my proficiency in various technologies and my ability to deliver solutions that cater to real-world needs. Feel free to explore the repositories for more details.
-<!-- Education -->
+
 ## Professional Qualification
 
 - **Macquarie University:** Bachelor of Information Technology (Software) - Feb 2020 to July 2023
 
-<!-- Interests -->
 ## Interests
 
 Cycling, Tennis, Real World Problems
 
-<!-- Conclusion -->
 Feel free to explore my repositories and get in touch. Let's connect and learn together! 🌐
-
