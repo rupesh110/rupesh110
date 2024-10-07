@@ -14,8 +14,6 @@
 
 🔗 **GitHub Summary:** [![GitHub Summary](https://img.shields.io/badge/GitHub-Summary-brightgreen)](https://profile-summary-for-github.com/user/rupesh110)
 
-🔗 **Website:** [![Website](https://img.shields.io/badge/Check%20out%20my%20website-brightgreen)](https://rupeshdev.netlify.app)
-
 ## What's on My Plate
 
 🔭 **Currently Working On:** Building a backend for a social media application using Python and the FastAPI framework. Leveraging SQL for data management and ensuring seamless server-to-front-end communication. Exciting times ahead! 🚀
