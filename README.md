@@ -8,7 +8,7 @@
 
 🌱 **Currently Learning:** Web Development and diving into the fascinating world of AI.
 
-👯 **Willing to Contribute:** In HTML, CSS, Java, JavaScript, and Python.
+👯 **Willing to Contribute:** In JavaScript, Node, React & C#.
 
 ⚡ **Fun Fact:** I have a deep love for nature photography and capturing beautiful sunsets. 📷
 
@@ -28,51 +28,11 @@
 
 As a Full-Stack Software Developer, I bring a versatile skill set to the table. My expertise includes:
 
-### Programming Languages
-- JavaScript
-- TypeScript
-- Python
-- Java
-- HTML
-- CSS
-- C#
-
-### Libraries & Frameworks
-- React
-- React Native
-- Bootstrap
-- Tailwind CSS
-- Express.js
-- FastAPI
-- Node.js
-- NPM
-- Next.js
-- Redux
-- D3.js
-- Auth0
-
-### Databases
-- MongoDB
-- PostgreSQL
-- SQL
-- NoSQL
-
-### Tools & Platforms
-- Git
-- GitHub
+### Programming Languages/Frameworks
+- JavaScript, Node, React
+- C#, .NET
+- Microservices
 - Azure
-- AWS 
-- Heroku
-- Netlify
-- Firebase
-- Figma
-- Render
-- Digital Ocean
-- Jira
-- Docker
-- Serverless
-- CI/CD
-- DevOps
 
 These skills empower me to develop end-to-end solutions and create captivating web applications with a focus on user experience and performance.
 
