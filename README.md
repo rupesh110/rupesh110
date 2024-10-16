@@ -14,14 +14,6 @@
 
 🔗 **GitHub Summary:** [![GitHub Summary](https://img.shields.io/badge/GitHub-Summary-brightgreen)](https://profile-summary-for-github.com/user/rupesh110)
 
-## What's on My Plate
-
-🔭 **Currently Working On:** Building a backend for a social media application using Python and the FastAPI framework. Leveraging SQL for data management and ensuring seamless server-to-front-end communication. Exciting times ahead! 🚀
-
-🌱 **Currently Learning:** In-depth about the backend architecture for a robust backend.
-
-👯 **Looking to Collaborate On:** Always open to collaborating on startup ideas and converting ideas into solutions.
-
 📫 **How to Reach Me:** [![Email](https://img.shields.io/badge/Email-rupeshshrestha2537%40gmail.com-red)](mailto:rupeshshrestha2537@gmail.com)
 
 ## Technical Skills
