@@ -8,7 +8,7 @@
 
 🌱 **Currently Learning:** Web Development and diving into the fascinating world of AI.
 
-👯 **Willing to Contribute:** In JavaScript, Node, React & C#.
+👯 **Willing to Contribute:** In JavaScript, Node, React, C# & Python.
 
 ⚡ **Fun Fact:** I have a deep love for nature photography and capturing beautiful sunsets. 📷
 
@@ -22,7 +22,7 @@ As a Full-Stack Software Developer, I bring a versatile skill set to the table. 
 
 ### Programming Languages/Frameworks
 - JavaScript, Node, React
-- C#, .NET
+- C#, .NET, Python
 - Microservices
 - Azure
 
